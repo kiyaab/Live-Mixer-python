@@ -1,0 +1,73 @@
+{
+  "sample_rate": 48000,
+  "buffer_size": 128,
+  "num_channels": 7,
+  "input_device": 0,
+  "output_device": 4,
+  "master_gain_db": -9.200000000000003,
+  "channels": [
+    {
+      "name": "CH1",
+      "gain_db": 0.0,
+      "fader_db": 0.0,
+      "pan": 0.0,
+      "mute": false,
+      "solo": false,
+      "phase_invert": false
+    },
+    {
+      "name": "CH2",
+      "gain_db": 0.0,
+      "fader_db": 0.0,
+      "pan": 0.0,
+      "mute": false,
+      "solo": false,
+      "phase_invert": false
+    },
+    {
+      "name": "CH3",
+      "gain_db": 0.0,
+      "fader_db": 0.0,
+      "pan": 0.0,
+      "mute": false,
+      "solo": false,
+      "phase_invert": false
+    },
+    {
+      "name": "CH4",
+      "gain_db": 0.0,
+      "fader_db": 0.0,
+      "pan": 0.0,
+      "mute": false,
+      "solo": false,
+      "phase_invert": false
+    },
+    {
+      "name": "CH5",
+      "gain_db": 0.0,
+      "fader_db": 0.0,
+      "pan": 0.0,
+      "mute": false,
+      "solo": false,
+      "phase_invert": false
+    },
+    {
+      "name": "CH6",
+      "gain_db": 0.0,
+      "fader_db": 0.0,
+      "pan": 0.0,
+      "mute": false,
+      "solo": false,
+      "phase_invert": false
+    },
+    {
+      "name": "CH7",
+      "gain_db": 0.0,
+      "fader_db": 0.0,
+      "pan": 0.0,
+      "mute": false,
+      "solo": false,
+      "phase_invert": false
+    }
+  ]
+}
